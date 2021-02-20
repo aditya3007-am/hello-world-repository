@@ -1,0 +1,3 @@
+git config --global -e
+git config --system -e
+git config --local -e
